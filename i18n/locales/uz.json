@@ -32,7 +32,7 @@
   },
   "about": {
     "aboutUs": "Biz haqimizda",
-    "description": "🏛 Biz haqimizda – To‘yxonachi\n\nTo‘yxonachi – bu O‘zbekistondagi to‘y marosimlari, yubiley, bayram va boshqa tadbirlar uchun eng zo‘r joylarni tez va oson topishga yordam beruvchi raqamli platforma. Biz foydalanuvchilarga zamonaviy, ishonchli va qulay tarzda to‘yxonalarni qidirish, solishtirish va band qilish imkonini taqdim etamiz.\n\n🎯 Maqsadimiz:\nMarosim joylarini topishdagi murakkablik va vaqtni tejash uchun yagona, ishonchli hamda foydalanuvchiga qulay yechim yaratish.\n\n📌 Nima uchun aynan To‘yxonachi?\n\n💒 O‘nlab to‘yxona va marosim zallari yagona platformada\n\n📷 Real suratlar va to‘liq ma’lumotlar\n\n⭐️ Foydalanuvchi sharhlari va reyting tizimi\n\n📍 Hudud, narx va sig‘im bo‘yicha qulay filtrlar\n\n🤝 Biz kimlarga yordam beramiz?\nTo‘y yoki tadbir tashkil qilayotgan insonlar\nTo‘yxonalar egasi yoki menejerlari\nTadbirlar agentliklari va xizmat ko‘rsatuvchi mutaxassislar\n\n📱 Hammasi sizga qulay bo‘lishi uchun:\nVeb-saytimiz orqali istalgan joydan, istalgan vaqtda to‘yxonalarni ko‘rib chiqing, tanlang va band qiling!"
+    "description": "🏛 Biz haqimizda – To‘yxonatop\n\nTo‘yxonatop – bu O‘zbekistondagi to‘y marosimlari, yubiley, bayram va boshqa tadbirlar uchun eng zo‘r joylarni tez va oson topishga yordam beruvchi raqamli platforma. Biz foydalanuvchilarga zamonaviy, ishonchli va qulay tarzda to‘yxonalarni qidirish, solishtirish va band qilish imkonini taqdim etamiz.\n\n🎯 Maqsadimiz:\nMarosim joylarini topishdagi murakkablik va vaqtni tejash uchun yagona, ishonchli hamda foydalanuvchiga qulay yechim yaratish.\n\n📌 Nima uchun aynan To‘yxonatop?\n\n💒 O‘nlab to‘yxona va marosim zallari yagona platformada\n\n📷 Real suratlar va to‘liq ma’lumotlar\n\n⭐️ Foydalanuvchi sharhlari va reyting tizimi\n\n📍 Hudud, narx va sig‘im bo‘yicha qulay filtrlar\n\n🤝 Biz kimlarga yordam beramiz?\nTo‘y yoki tadbir tashkil qilayotgan insonlar\nTo‘yxonalar egasi yoki menejerlari\nTadbirlar agentliklari va xizmat ko‘rsatuvchi mutaxassislar\n\n📱 Hammasi sizga qulay bo‘lishi uchun:\nVeb-saytimiz orqali istalgan joydan, istalgan vaqtda to‘yxonalarni ko‘rib chiqing, tanlang va band qiling!"
   },
   "weddingHall": {
     "title": "To‘yxona",
@@ -267,9 +267,9 @@
     "selectImageAndHallError": "Rasm va to‘yxona tanlang!"
   },
   "seo": {
-    "homeTitle": "To‘yxonachi — Eng yaxshi to‘yxonalar",
+    "homeTitle": "To‘yxonatop — Eng yaxshi to‘yxonalar",
     "homeDescription":"Eng yaxshi to‘yxonalar, narxlar va tariflar",
-    "listTitle":"Barcha to‘yxonalar — To‘yxonachi",
+    "listTitle":"Barcha to‘yxonalar — To‘yxonatop",
     "mostExpensive": "Eng qimmat to‘yxonalar",
     "listDescription": "Tadbiringiz uchun eng yaxshi restoran va to‘yxonalarni toping"
   }
